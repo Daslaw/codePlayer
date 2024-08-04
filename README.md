@@ -2,7 +2,7 @@
 CodePlayer, a clone of Codepen site with basic features, built with Bootstrap and jQuery.
 
 Take a look here:
-[]
+[https://daslaw.github.io/codePlayer/]
 # CodePlay App
 
 CodePlay App is an interactive web application that allows users to write HTML, CSS, and JavaScript code and see the output in real-time. This project utilizes Bootstrap for styling, jQuery for interactivity, and includes animations to enhance the user experience.
